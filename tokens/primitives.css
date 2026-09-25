@@ -1,0 +1,15 @@
+/* Niveau 1 — primitives : valeurs brutes, AUCUNE intention.
+   Jamais utilisées directement dans un composant. */
+:root {
+  /* TODO étape 1 : gamme de marque 50 → 900 */
+  --color-brand-600: #2952cc;
+  --color-brand-700: #1f3fa3;
+
+  /* TODO : neutres 0 → 900 */
+  --color-neutral-0: #ffffff;
+  --color-neutral-700: #3f4451;
+  --color-neutral-900: #171a21;
+
+  /* TODO : statuts (succès, alerte, erreur, info) */
+  --color-red-600: #c62828;
+}
